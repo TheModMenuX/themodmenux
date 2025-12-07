@@ -1,5 +1,5 @@
 ### Bored programmer
-* Hello! im TheModMenuX. i make CLI and tools. i do know multiple programming languages
+* Hello! im TheModMenuX, just call me ModdyX. i make graphical interfaces. i do know multiple programming languages
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=themodmenux&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 
